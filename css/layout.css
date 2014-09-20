@@ -31,8 +31,8 @@ body {
 .page h2,
 .entry h2,
 .entry h2 a {
-	font: 31px/36px 'opensans-semibold', sans-serif;
-	color: #CC917B;
+	font: 28px/36px 'opensans-semibold', sans-serif;
+	color: #5C5450;
 	margin-bottom: 0;
 	letter-spacing: -.5px;
 }
@@ -84,7 +84,7 @@ header h1#logo-text {
 header h1#logo-text a {	 
 	margin: 0; 
 	padding: 0;
-	font: normal 80px Calibri, sans-serif;
+	font: normal 70px Calibri, sans-serif;
 	letter-spacing: -5px;
 	color: #93b876;
 	text-decoration: none;
@@ -98,7 +98,7 @@ header p#intro {
 	
 	/* change the values of top and left to adjust the position */
 	position: absolute;
-	top: 200px; left: 23px;
+	top: 190px; left: 23px;
 }
 
 
@@ -347,10 +347,10 @@ ul#nav ul li a {
 
 #sidebar .widget_categories .button { 
    text-transform: uppercase;
-   letter-spacing: 2px;
+   letter-spacing: 1px;
    display: inline-block;
-   margin-left: 6px;
-   padding: 0px 5px;
+   margin-left: 15px;
+   padding: 0px 4px;
    float: right;
    font-size: 12px;
 }
