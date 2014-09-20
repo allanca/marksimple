@@ -79,12 +79,12 @@ header h1#logo-text {
 
 	/* change the values of top and left to adjust the position of the logo text */
 	position: absolute;
-	top: 108px; left: 18px;	
+	top: 130px; left: 18px;	
 }
 header h1#logo-text a {	 
 	margin: 0; 
 	padding: 0;
-	font: normal 70px Calibri, sans-serif;
+	font: normal 55px 'opensans-semibold', sans-serif;
 	letter-spacing: -5px;
 	color: #93b876;
 	text-decoration: none;
