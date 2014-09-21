@@ -1,4 +1,4 @@
-﻿
+
 ==================================================================================================
 
 KEEP IT SIMPLE is a clean and minimalist website template designed primarily for blog sites. 
